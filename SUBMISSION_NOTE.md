@@ -8,4 +8,4 @@ With more time, I would test the wording with accountants and auditors, add prod
 
 I used React, Tailwind CSS, Vite, the supplied logo and the ui-ux-pro-max design guidance. OpenAI Codex assisted with structure, copy, implementation and build checks; I reviewed the result against the brief and can explain the design and code.
 
-**Time spent:** [Add your actual total hours before submitting.]
+**Time spent:** About 3 hours.
